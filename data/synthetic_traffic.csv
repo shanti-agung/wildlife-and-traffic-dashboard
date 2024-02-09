@@ -1,0 +1,551 @@
+date,company,speed,country
+2022-09-27,Hebert PLC,84.6,Zimbabwe
+2022-09-22,Scott-Johnson,86.85,Zimbabwe
+2022-09-24,"Miller, Dean and Garcia",83.58,Zimbabwe
+2022-09-22,"Johnson, Johnson and Krause",74.3,Zimbabwe
+2022-09-25,"Acosta, Miles and Fowler",76.6,Zimbabwe
+2022-09-24,Lopez-Middleton,101.44,Namibia
+2022-09-23,Scott-Johnson,84.4,Zimbabwe
+2022-09-26,Stone-Orozco,78.26,Zambia
+2022-09-27,Briggs PLC,62.19,South Africa
+2022-09-25,"Fisher, Bray and Davis",113.18,Zimbabwe
+2022-09-24,Brown PLC,114.87,Zimbabwe
+2022-09-23,Woods Ltd,76.63,Zambia
+2022-09-24,"Smith, Simpson and Brooks",114.1,Zimbabwe
+2022-09-27,Smith Group,107.47,Zimbabwe
+2022-09-26,Diaz and Sons,86.51,Zimbabwe
+2022-09-24,Powell-Knight,93.57,Zambia
+2022-09-24,Mora-Thomas,100.47,Zimbabwe
+2022-09-25,Rowe-Estrada,92.53,Zimbabwe
+2022-09-22,Walker-Hodge,93.38,Zimbabwe
+2022-09-25,Little-Meadows,68.65,Zimbabwe
+2022-09-25,Brown-Ramirez,83.04,Zimbabwe
+2022-09-27,"Flores, Vazquez and Davis",75.53,Zimbabwe
+2022-09-23,"Wilson, Yates and Carroll",93.36,Tanzania
+2022-09-26,Little-Meadows,92.6,Zimbabwe
+2022-09-22,"Brown, Moore and Barnett",87.06,Zimbabwe
+2022-09-25,Owen-Hull,87.59,Zambia
+2022-09-27,Campbell-Green,99.38,Zimbabwe
+2022-09-23,Smith Inc,118.06,Zimbabwe
+2022-09-22,Little-Meadows,107.31,Zimbabwe
+2022-09-26,"Velasquez, Kennedy and Hicks",88.29,Zimbabwe
+2022-09-25,Hernandez Ltd,90.28,Zimbabwe
+2022-09-22,Douglas-Myers,69.21,Zimbabwe
+2022-09-22,Decker-Myers,83.94,South Africa
+2022-09-25,Gonzales and Sons,79.1,Namibia
+2022-09-22,"Meza, Wade and Edwards",115.18,Zimbabwe
+2022-09-22,"Scott, Jones and Taylor",108.99,Zambia
+2022-09-23,Diaz and Sons,62.92,Zimbabwe
+2022-09-22,Lopez-Middleton,104.11,Namibia
+2022-09-25,"Herring, Long and Beard",77.8,Zambia
+2022-09-25,"Miller, Payne and Evans",124.04,Zimbabwe
+2022-09-24,"Velasquez, Kennedy and Hicks",85.85,Zimbabwe
+2022-09-22,"Miller, Payne and Evans",67.0,Zimbabwe
+2022-09-25,"Mitchell, Bowman and Walker",96.8,Zambia
+2022-09-22,"Miller, Dean and Garcia",131.53,Zimbabwe
+2022-09-22,Gonzales and Sons,98.16,Namibia
+2022-09-22,Diaz and Sons,93.74,Zimbabwe
+2022-09-27,Lopez-Middleton,92.21,Namibia
+2022-09-27,Keller-Owen,81.86,Zimbabwe
+2022-09-27,Reyes PLC,111.91,Zimbabwe
+2022-09-23,"Scott, Jones and Taylor",110.03,Zambia
+2022-09-27,Fernandez-Moss,95.54,Zimbabwe
+2022-09-22,"Miller, Payne and Evans",93.52,Zimbabwe
+2022-09-22,"Johnson, Johnson and Krause",77.12,Zimbabwe
+2022-09-23,"Velasquez, Kennedy and Hicks",114.86,Zimbabwe
+2022-09-24,Mcguire-Mcdowell,113.22,Zimbabwe
+2022-09-22,Santos-Tanner,98.24,Namibia
+2022-09-26,Edwards-Nixon,88.06,Zimbabwe
+2022-09-27,"Silva, Gordon and Ray",70.76,Zimbabwe
+2022-09-22,"Scott, Jones and Taylor",117.05,Zambia
+2022-09-25,"Mckee, Summers and Joseph",80.89,Zambia
+2022-09-27,Edwards-Ford,74.29,Zimbabwe
+2022-09-25,Taylor and Sons,96.89,Zimbabwe
+2022-09-27,Reyes PLC,98.97,Zimbabwe
+2022-09-26,"Orozco, Colon and Williamson",111.81,Zimbabwe
+2022-09-22,Peterson PLC,111.07,Zimbabwe
+2022-09-27,Burgess PLC,97.37,Zimbabwe
+2022-09-24,Reynolds LLC,142.03,Zimbabwe
+2022-09-25,Mcdaniel LLC,109.37,Zimbabwe
+2022-09-27,"Smith, Simpson and Brooks",78.77,Zimbabwe
+2022-09-27,"Flores, Vazquez and Davis",80.45,Zimbabwe
+2022-09-22,Diaz and Sons,96.11,Zimbabwe
+2022-09-22,"Cruz, Mcdonald and Long",67.52,Zimbabwe
+2022-09-24,Campbell-Green,76.6,Zimbabwe
+2022-09-27,Burgess PLC,90.18,Zimbabwe
+2022-09-27,Lopez-Middleton,82.34,Namibia
+2022-09-27,Brown-Ramirez,94.65,Zimbabwe
+2022-09-25,Decker-Myers,107.28,South Africa
+2022-09-23,"Smith, Graves and Roy",79.54,Zimbabwe
+2022-09-22,Woods Ltd,119.86,Zambia
+2022-09-27,Harrison-Reed,110.85,Zimbabwe
+2022-09-23,"Mckee, Summers and Joseph",83.13,Zambia
+2022-09-22,"Smith, Graves and Roy",78.84,Zimbabwe
+2022-09-22,Rogers LLC,96.66,Zimbabwe
+2022-09-22,Harrison and Sons,117.81,Zimbabwe
+2022-09-26,"Smith, Simpson and Brooks",83.38,Zimbabwe
+2022-09-23,Haynes-Wheeler,102.26,Zimbabwe
+2022-09-27,Conway-Scott,83.93,Zimbabwe
+2022-09-25,"Smith, Graves and Roy",69.93,Zimbabwe
+2022-09-27,Smith Group,85.31,Zimbabwe
+2022-09-23,Edwards-Ford,126.17,Zimbabwe
+2022-09-22,Smith Group,118.71,Zimbabwe
+2022-09-23,Edwards-Ford,82.6,Zimbabwe
+2022-09-25,Hebert PLC,84.64,Zimbabwe
+2022-09-27,Harrison-Reed,112.57,Zimbabwe
+2022-09-27,Elliott-Brown,92.9,Zambia
+2022-09-27,Reynolds LLC,97.83,Zimbabwe
+2022-09-27,"Dominguez, Matthews and Rodriguez",92.9,Zambia
+2022-09-24,Watkins Group,110.0,Zimbabwe
+2022-09-24,"Baird, Luna and Madden",85.79,Zimbabwe
+2022-09-27,"Johnson, Johnson and Krause",90.16,Zimbabwe
+2022-09-23,Scott-Johnson,72.34,Zimbabwe
+2022-09-22,Montgomery LLC,72.55,Zimbabwe
+2022-09-24,Henry-Rodriguez,93.99,South Africa
+2022-09-24,Reyes PLC,98.16,Zimbabwe
+2022-09-24,Nelson-Tran,99.36,South Africa
+2022-09-27,Lopez-Middleton,95.43,Namibia
+2022-09-22,"Brown, Moore and Barnett",95.79,Zimbabwe
+2022-09-25,Scott-Johnson,110.42,Zimbabwe
+2022-09-23,"Smith, Simpson and Brooks",142.03,Zimbabwe
+2022-09-26,Diaz and Sons,77.65,Zimbabwe
+2022-09-25,"Fisher, Bray and Davis",83.87,Zimbabwe
+2022-09-24,Harrison-Reed,118.83,Zimbabwe
+2022-09-24,Gonzales and Sons,102.53,Namibia
+2022-09-23,Decker-Myers,110.81,South Africa
+2022-09-25,Hernandez Ltd,83.6,Zimbabwe
+2022-09-24,Wagner Group,110.46,Zambia
+2022-09-23,Stone-Orozco,96.11,Zambia
+2022-09-27,"Flores, Vazquez and Davis",66.91,Zimbabwe
+2022-09-23,Campbell-Green,67.84,Zimbabwe
+2022-09-27,Haynes-Wheeler,82.15,Zimbabwe
+2022-09-26,Walker-Hodge,115.94,Zimbabwe
+2022-09-25,Rowe-Estrada,107.41,Zimbabwe
+2022-09-24,"Wilson, Yates and Carroll",83.67,Tanzania
+2022-09-23,Burgess PLC,94.57,Zimbabwe
+2022-09-23,Decker-Myers,110.13,South Africa
+2022-09-27,Conway-Scott,110.86,Zimbabwe
+2022-09-23,Briggs PLC,76.16,South Africa
+2022-09-26,Smith Inc,91.07,Zimbabwe
+2022-09-25,"Dominguez, Matthews and Rodriguez",88.45,Zambia
+2022-09-24,"Jackson, Mitchell and Walker",85.66,Zimbabwe
+2022-09-25,Austin LLC,92.68,Zimbabwe
+2022-09-27,Smith Inc,83.57,Zimbabwe
+2022-09-27,"Orozco, Colon and Williamson",74.66,Zimbabwe
+2022-09-22,Elliott-Brown,64.01,Zambia
+2022-09-26,"Johnson, Johnson and Krause",101.6,Zimbabwe
+2022-09-22,"Fisher, Bray and Davis",100.76,Zimbabwe
+2022-09-25,Nichols-Williams,73.98,Zimbabwe
+2022-09-26,"Cruz, Mcdonald and Long",70.94,Zimbabwe
+2022-09-23,Henry-Rodriguez,91.09,South Africa
+2022-09-27,"Perez, Lee and Rios",105.42,Zimbabwe
+2022-09-22,"Mitchell, Bowman and Walker",93.41,Zambia
+2022-09-22,Wagner Group,98.44,Zambia
+2022-09-27,"Dominguez, Matthews and Rodriguez",72.55,Zambia
+2022-09-27,Smith Inc,68.44,Zimbabwe
+2022-09-27,"Duran, Garcia and Key",76.33,Zimbabwe
+2022-09-25,Owen-Hull,82.85,Zambia
+2022-09-24,Montgomery LLC,66.61,Zimbabwe
+2022-09-27,Brown PLC,82.27,Zimbabwe
+2022-09-22,Woods Ltd,99.5,Zambia
+2022-09-24,"Duran, Garcia and Key",91.53,Zimbabwe
+2022-09-23,Jackson Group,85.35,Zimbabwe
+2022-09-24,Edwards-Nixon,69.22,Zimbabwe
+2022-09-25,Smith Inc,97.11,Zimbabwe
+2022-09-27,"Miller, Payne and Evans",92.26,Zimbabwe
+2022-09-27,"Brown, Moore and Barnett",142.03,Zimbabwe
+2022-09-26,Briggs PLC,77.95,South Africa
+2022-09-23,"Davies, Buchanan and Allen",105.48,Tanzania
+2022-09-22,"Orozco, Colon and Williamson",91.29,Zimbabwe
+2022-09-25,Jones and Sons,80.1,Zimbabwe
+2022-09-22,"Flores, Vazquez and Davis",84.57,Zimbabwe
+2022-09-22,Mcdaniel LLC,90.26,Zimbabwe
+2022-09-24,"Baird, Luna and Madden",87.32,Zimbabwe
+2022-09-23,"Velasquez, Kennedy and Hicks",72.35,Zimbabwe
+2022-09-24,"Silva, Gordon and Ray",94.06,Zimbabwe
+2022-09-23,Smith Group,72.95,Zimbabwe
+2022-09-26,Rogers LLC,78.3,Zimbabwe
+2022-09-26,Smith Inc,96.5,Zimbabwe
+2022-09-25,"Velasquez, Kennedy and Hicks",88.62,Zimbabwe
+2022-09-24,Lee PLC,131.41,Zimbabwe
+2022-09-25,Walker-Hodge,85.55,Zimbabwe
+2022-09-25,Lee PLC,129.16,Zimbabwe
+2022-09-27,Reyes PLC,83.05,Zimbabwe
+2022-09-26,"Smith, Simpson and Brooks",106.37,Zimbabwe
+2022-09-22,Conway-Scott,93.21,Zimbabwe
+2022-09-22,"Brown, Moore and Barnett",93.39,Zimbabwe
+2022-09-26,"Clark, Jackson and Stevenson",85.47,Zimbabwe
+2022-09-22,"Mitchell, Bowman and Walker",92.52,Zambia
+2022-09-23,Edwards-Ford,91.93,Zimbabwe
+2022-09-26,Keller-Owen,82.91,Zimbabwe
+2022-09-26,Jackson Group,78.35,Zimbabwe
+2022-09-24,Rogers LLC,76.23,Zimbabwe
+2022-09-22,"Duran, Garcia and Key",94.0,Zimbabwe
+2022-09-26,Santos-Tanner,102.0,Namibia
+2022-09-22,Brown PLC,98.79,Zimbabwe
+2022-09-26,"Scott, Jones and Taylor",98.49,Zambia
+2022-09-24,Mora-Thomas,103.86,Zimbabwe
+2022-09-26,Watkins Group,122.52,Zimbabwe
+2022-09-22,"Miller, Dean and Garcia",92.97,Zimbabwe
+2022-09-23,Reyes PLC,104.68,Zimbabwe
+2022-09-27,Chung Ltd,102.49,Zimbabwe
+2022-09-27,"Williams, Cole and Miranda",99.71,Zimbabwe
+2022-09-26,Harrison-Reed,112.99,Zimbabwe
+2022-09-22,Little-Meadows,87.99,Zimbabwe
+2022-09-25,Watkins LLC,93.11,Zimbabwe
+2022-09-23,Rogers LLC,82.0,Zimbabwe
+2022-09-27,Little-Meadows,118.78,Zimbabwe
+2022-09-22,Haynes-Wheeler,100.0,Zimbabwe
+2022-09-23,"Mitchell, Bowman and Walker",76.53,Zambia
+2022-09-24,Edwards-Ford,94.4,Zimbabwe
+2022-09-22,Smith Group,84.16,Zimbabwe
+2022-09-23,Cook LLC,109.03,Zimbabwe
+2022-09-24,Burgess PLC,101.94,Zimbabwe
+2022-09-23,Edwards-Nixon,118.0,Zimbabwe
+2022-09-23,Burgess PLC,99.95,Zimbabwe
+2022-09-26,Cook LLC,81.25,Zimbabwe
+2022-09-27,Montgomery-Rhodes,90.26,Botswana
+2022-09-26,Douglas-Myers,79.56,Zimbabwe
+2022-09-27,Lopez-Middleton,60.78,Namibia
+2022-09-22,Rowe-Estrada,82.26,Zimbabwe
+2022-09-22,Rowe-Estrada,94.11,Zimbabwe
+2022-09-27,"Mitchell, Bowman and Walker",96.63,Zambia
+2022-09-23,Evans LLC,95.27,Namibia
+2022-09-22,"Flores, Vazquez and Davis",111.21,Zimbabwe
+2022-09-22,Brown PLC,98.24,Zimbabwe
+2022-09-22,"Mckee, Summers and Joseph",98.8,Zambia
+2022-09-24,"Smith, Simpson and Brooks",73.95,Zimbabwe
+2022-09-25,Stone-Orozco,79.65,Zambia
+2022-09-25,"Miller, Dean and Garcia",98.74,Zimbabwe
+2022-09-23,Powell-Knight,63.4,Zambia
+2022-09-25,"Dominguez, Matthews and Rodriguez",88.35,Zambia
+2022-09-22,"Scott, Jones and Taylor",114.2,Zambia
+2022-09-24,Nelson-Tran,70.68,South Africa
+2022-09-27,"Acosta, Miles and Fowler",81.47,Zimbabwe
+2022-09-24,Mcdaniel LLC,106.23,Zimbabwe
+2022-09-25,"Scott, Jones and Taylor",79.54,Zambia
+2022-09-24,Rowe-Estrada,107.47,Zimbabwe
+2022-09-22,Montgomery-Rhodes,102.11,Botswana
+2022-09-22,"Johnson, Johnson and Krause",99.06,Zimbabwe
+2022-09-26,Mcdaniel LLC,101.31,Zimbabwe
+2022-09-24,Burgess PLC,81.3,Zimbabwe
+2022-09-26,"Silva, Gordon and Ray",105.21,Zimbabwe
+2022-09-24,Evans LLC,71.51,Namibia
+2022-09-27,Jackson Group,85.12,Zimbabwe
+2022-09-22,"Meza, Wade and Edwards",131.78,Zimbabwe
+2022-09-26,Jones and Sons,105.97,Zimbabwe
+2022-09-27,Watkins Group,92.06,Zimbabwe
+2022-09-26,Taylor and Sons,73.71,Zimbabwe
+2022-09-27,Henry-Rodriguez,81.63,South Africa
+2022-09-23,"Duran, Garcia and Key",67.94,Zimbabwe
+2022-09-24,Montgomery LLC,107.75,Zimbabwe
+2022-09-26,Austin LLC,95.49,Zimbabwe
+2022-09-27,Nichols-Williams,79.99,Zimbabwe
+2022-09-26,Brown-Ramirez,81.24,Zimbabwe
+2022-09-25,Rogers LLC,102.49,Zimbabwe
+2022-09-22,Reynolds LLC,82.51,Zimbabwe
+2022-09-27,Watkins Group,77.09,Zimbabwe
+2022-09-27,Chung Ltd,61.07,Zimbabwe
+2022-09-26,Peterson PLC,99.68,Zimbabwe
+2022-09-25,Conway-Scott,117.66,Zimbabwe
+2022-09-23,Stein Inc,99.87,Zimbabwe
+2022-09-22,"Mitchell, Bowman and Walker",132.26,Zambia
+2022-09-25,Jackson Group,87.87,Zimbabwe
+2022-09-26,"Burns, Washington and Webster",82.34,Zimbabwe
+2022-09-27,"Miller, Payne and Evans",109.42,Zimbabwe
+2022-09-23,"Brown, Moore and Barnett",120.19,Zimbabwe
+2022-09-27,Nelson-Tran,106.34,South Africa
+2022-09-22,Montgomery LLC,105.46,Zimbabwe
+2022-09-22,Nichols-Williams,114.49,Zimbabwe
+2022-09-27,Hernandez Ltd,85.06,Zimbabwe
+2022-09-26,Rowe-Estrada,87.38,Zimbabwe
+2022-09-27,Lee PLC,103.24,Zimbabwe
+2022-09-27,Woods Ltd,76.87,Zambia
+2022-09-25,Evans LLC,96.33,Namibia
+2022-09-24,"Davies, Buchanan and Allen",92.12,Tanzania
+2022-09-25,"Jackson, Mitchell and Walker",79.3,Zimbabwe
+2022-09-27,"Clark, Jackson and Stevenson",95.21,Zimbabwe
+2022-09-23,Walker-Hodge,90.36,Zimbabwe
+2022-09-22,"Scott, Jones and Taylor",86.72,Zambia
+2022-09-22,Smith Inc,98.89,Zimbabwe
+2022-09-25,Stone-Orozco,106.87,Zambia
+2022-09-27,Briggs PLC,80.58,South Africa
+2022-09-27,Powell-Knight,88.47,Zambia
+2022-09-27,"Duran, Garcia and Key",89.57,Zimbabwe
+2022-09-24,Hebert PLC,72.2,Zimbabwe
+2022-09-27,"Dominguez, Matthews and Rodriguez",101.1,Zambia
+2022-09-26,Elliott-Brown,110.5,Zambia
+2022-09-22,"Wilson, Yates and Carroll",105.44,Tanzania
+2022-09-23,Jones and Sons,86.32,Zimbabwe
+2022-09-26,Douglas-Myers,80.74,Zimbabwe
+2022-09-25,Smith Inc,65.89,Zimbabwe
+2022-09-23,"Silva, Gordon and Ray",87.96,Zimbabwe
+2022-09-22,"Williams, Cole and Miranda",115.0,Zimbabwe
+2022-09-22,Woods Ltd,75.61,Zambia
+2022-09-26,Haynes-Wheeler,74.87,Zimbabwe
+2022-09-24,Lee PLC,75.97,Zimbabwe
+2022-09-27,Briggs PLC,70.63,South Africa
+2022-09-26,"Herring, Long and Beard",94.62,Zambia
+2022-09-22,Wagner Group,116.57,Zambia
+2022-09-22,"Velasquez, Kennedy and Hicks",106.59,Zimbabwe
+2022-09-24,Montgomery LLC,77.58,Zimbabwe
+2022-09-22,Powell-Knight,92.28,Zambia
+2022-09-23,Keller-Owen,110.55,Zimbabwe
+2022-09-22,Douglas-Myers,121.79,Zimbabwe
+2022-09-25,Powell-Knight,95.0,Zambia
+2022-09-27,"Acosta, Miles and Fowler",75.07,Zimbabwe
+2022-09-25,"Barber, Davis and Nichols",101.18,Zimbabwe
+2022-09-25,Henry-Rodriguez,81.48,South Africa
+2022-09-24,Montgomery-Rhodes,68.97,Botswana
+2022-09-22,Keller-Owen,77.94,Zimbabwe
+2022-09-24,Rogers LLC,98.22,Zimbabwe
+2022-09-26,Briggs PLC,80.32,South Africa
+2022-09-27,Smith Inc,74.34,Zimbabwe
+2022-09-25,"Johnson, Johnson and Krause",98.87,Zimbabwe
+2022-09-25,Walker-Hodge,75.94,Zimbabwe
+2022-09-24,"Smith, Simpson and Brooks",109.79,Zimbabwe
+2022-09-26,Harrison-Reed,82.61,Zimbabwe
+2022-09-23,"Burns, Washington and Webster",132.81,Zimbabwe
+2022-09-23,"Baird, Luna and Madden",116.91,Zimbabwe
+2022-09-26,Austin LLC,74.77,Zimbabwe
+2022-09-24,"Castro, Robbins and Smith",78.02,Zimbabwe
+2022-09-27,"Brown, Moore and Barnett",76.99,Zimbabwe
+2022-09-26,"Acosta, Miles and Fowler",79.78,Zimbabwe
+2022-09-22,Mora-Thomas,79.09,Zimbabwe
+2022-09-23,"Smith, Graves and Roy",94.45,Zimbabwe
+2022-09-22,Mcdaniel LLC,102.0,Zimbabwe
+2022-09-22,Gonzales and Sons,86.33,Namibia
+2022-09-22,Cook LLC,100.64,Zimbabwe
+2022-09-24,Hernandez Ltd,75.32,Zimbabwe
+2022-09-23,Stone-Orozco,108.39,Zambia
+2022-09-23,Lee PLC,114.1,Zimbabwe
+2022-09-25,Stone-Orozco,80.08,Zambia
+2022-09-22,Jackson Group,86.61,Zimbabwe
+2022-09-26,"Brown, Moore and Barnett",79.65,Zimbabwe
+2022-09-24,"Miller, Dean and Garcia",86.23,Zimbabwe
+2022-09-25,Smith Inc,87.09,Zimbabwe
+2022-09-26,Smith Group,79.63,Zimbabwe
+2022-09-22,Owen-Hull,86.15,Zambia
+2022-09-22,Harrison-Reed,92.17,Zimbabwe
+2022-09-26,"Castro, Robbins and Smith",91.28,Zimbabwe
+2022-09-22,Mcdaniel LLC,102.5,Zimbabwe
+2022-09-25,Austin LLC,85.65,Zimbabwe
+2022-09-25,"Brown, Moore and Barnett",90.48,Zimbabwe
+2022-09-27,"Castro, Robbins and Smith",103.06,Zimbabwe
+2022-09-27,"Cruz, Mcdonald and Long",85.88,Zimbabwe
+2022-09-25,"Davies, Buchanan and Allen",91.36,Tanzania
+2022-09-27,Little-Meadows,85.89,Zimbabwe
+2022-09-27,Owen-Hull,100.21,Zambia
+2022-09-27,Campbell-Green,76.84,Zimbabwe
+2022-09-27,Hebert PLC,102.19,Zimbabwe
+2022-09-27,Conway-Scott,90.03,Zimbabwe
+2022-09-27,Powell-Knight,77.56,Zambia
+2022-09-26,Lopez-Middleton,100.49,Namibia
+2022-09-22,Lee PLC,103.44,Zimbabwe
+2022-09-24,"Miller, Johnson and Knight",86.31,Zimbabwe
+2022-09-24,"Williams, Cole and Miranda",84.15,Zimbabwe
+2022-09-25,Chung Ltd,87.25,Zimbabwe
+2022-09-26,Lopez-Middleton,89.16,Namibia
+2022-09-25,"Silva, Gordon and Ray",106.59,Zimbabwe
+2022-09-22,Keller-Owen,104.02,Zimbabwe
+2022-09-25,"Smith, Graves and Roy",103.19,Zimbabwe
+2022-09-22,"Dominguez, Matthews and Rodriguez",132.5,Zambia
+2022-09-27,"Silva, Gordon and Ray",77.54,Zimbabwe
+2022-09-22,Nelson-Tran,87.39,South Africa
+2022-09-22,Nelson-Tran,95.57,South Africa
+2022-09-26,Edwards-Ford,82.27,Zimbabwe
+2022-09-26,Stein Inc,74.99,Zimbabwe
+2022-09-22,Montgomery LLC,96.41,Zimbabwe
+2022-09-27,"Acosta, Miles and Fowler",70.45,Zimbabwe
+2022-09-26,Santos-Tanner,87.19,Namibia
+2022-09-24,Cook LLC,108.12,Zimbabwe
+2022-09-24,Woods Ltd,83.83,Zambia
+2022-09-24,"Velasquez, Kennedy and Hicks",76.28,Zimbabwe
+2022-09-27,Harrison and Sons,106.0,Zimbabwe
+2022-09-27,Nichols-Williams,82.68,Zimbabwe
+2022-09-25,Conway-Scott,87.31,Zimbabwe
+2022-09-25,Brown-Ramirez,105.55,Zimbabwe
+2022-09-23,"Davies, Buchanan and Allen",66.76,Tanzania
+2022-09-22,"Burns, Washington and Webster",101.06,Zimbabwe
+2022-09-26,"Meza, Wade and Edwards",101.94,Zimbabwe
+2022-09-23,"Velasquez, Kennedy and Hicks",88.23,Zimbabwe
+2022-09-24,Cook LLC,101.67,Zimbabwe
+2022-09-27,"Duran, Garcia and Key",87.24,Zimbabwe
+2022-09-24,Lopez-Middleton,97.8,Namibia
+2022-09-25,Powell-Knight,82.6,Zambia
+2022-09-23,Briggs PLC,87.65,South Africa
+2022-09-22,"Castro, Robbins and Smith",92.61,Zimbabwe
+2022-09-23,"Duran, Garcia and Key",69.06,Zimbabwe
+2022-09-24,"Wilson, Yates and Carroll",84.82,Tanzania
+2022-09-26,Diaz and Sons,87.82,Zimbabwe
+2022-09-25,Smith Group,93.79,Zimbabwe
+2022-09-23,Powell-Knight,87.84,Zambia
+2022-09-22,"Acosta, Miles and Fowler",102.7,Zimbabwe
+2022-09-22,"Mckee, Summers and Joseph",77.76,Zambia
+2022-09-26,Harrison-Reed,99.21,Zimbabwe
+2022-09-23,Hebert PLC,104.46,Zimbabwe
+2022-09-27,Burgess PLC,66.65,Zimbabwe
+2022-09-22,"Acosta, Miles and Fowler",82.23,Zimbabwe
+2022-09-22,Brown-Ramirez,80.11,Zimbabwe
+2022-09-24,"Perez, Lee and Rios",108.68,Zimbabwe
+2022-09-25,"Miller, Johnson and Knight",83.34,Zimbabwe
+2022-09-26,"Smith, Graves and Roy",83.63,Zimbabwe
+2022-09-26,Hernandez-Glenn,87.6,Zimbabwe
+2022-09-24,Santos-Tanner,87.61,Namibia
+2022-09-26,Haynes-Wheeler,77.42,Zimbabwe
+2022-09-22,"Smith, Simpson and Brooks",79.41,Zimbabwe
+2022-09-23,Brown PLC,74.16,Zimbabwe
+2022-09-26,"Fisher, Bray and Davis",94.18,Zimbabwe
+2022-09-26,Owen-Hull,79.45,Zambia
+2022-09-22,"Acosta, Miles and Fowler",76.36,Zimbabwe
+2022-09-27,Jackson Group,112.02,Zimbabwe
+2022-09-24,Decker-Myers,100.57,South Africa
+2022-09-27,Woods Ltd,72.88,Zambia
+2022-09-27,Montgomery LLC,104.3,Zimbabwe
+2022-09-25,Brown-Ramirez,95.41,Zimbabwe
+2022-09-23,"Clark, Jackson and Stevenson",115.22,Zimbabwe
+2022-09-26,Santos-Tanner,75.33,Namibia
+2022-09-22,Stone-Orozco,136.78,Zambia
+2022-09-23,Evans LLC,109.71,Namibia
+2022-09-25,"Mckee, Summers and Joseph",122.06,Zambia
+2022-09-26,Montgomery LLC,76.57,Zimbabwe
+2022-09-24,Brown-Ramirez,112.4,Zimbabwe
+2022-09-27,Woods Ltd,81.56,Zambia
+2022-09-24,Mcguire-Mcdowell,82.68,Zimbabwe
+2022-09-27,Fernandez-Moss,90.27,Zimbabwe
+2022-09-27,Edwards-Ford,61.88,Zimbabwe
+2022-09-25,Fernandez-Moss,60.78,Zimbabwe
+2022-09-26,Rogers LLC,79.01,Zimbabwe
+2022-09-25,Conway-Scott,71.38,Zimbabwe
+2022-09-23,Elliott-Brown,96.58,Zambia
+2022-09-25,"Wilson, Yates and Carroll",81.22,Tanzania
+2022-09-26,Briggs PLC,97.35,South Africa
+2022-09-24,Burgess PLC,103.77,Zimbabwe
+2022-09-23,Hernandez Ltd,105.04,Zimbabwe
+2022-09-26,Chung Ltd,80.55,Zimbabwe
+2022-09-22,"Davies, Buchanan and Allen",105.85,Tanzania
+2022-09-23,Harrison and Sons,82.31,Zimbabwe
+2022-09-23,Briggs PLC,75.36,South Africa
+2022-09-27,Fernandez-Moss,80.17,Zimbabwe
+2022-09-26,Smith Inc,92.85,Zimbabwe
+2022-09-25,Wagner Group,87.58,Zambia
+2022-09-26,"Acosta, Miles and Fowler",74.58,Zimbabwe
+2022-09-22,Watkins Group,107.7,Zimbabwe
+2022-09-24,Harrison-Reed,83.54,Zimbabwe
+2022-09-24,Watkins LLC,89.88,Zimbabwe
+2022-09-22,Douglas-Myers,86.27,Zimbabwe
+2022-09-25,"Dominguez, Matthews and Rodriguez",76.45,Zambia
+2022-09-24,Henry-Rodriguez,93.02,South Africa
+2022-09-27,Mora-Thomas,83.62,Zimbabwe
+2022-09-24,"Scott, Jones and Taylor",92.98,Zambia
+2022-09-27,"Barber, Davis and Nichols",100.89,Zimbabwe
+2022-09-27,Reyes PLC,76.74,Zimbabwe
+2022-09-22,"Herring, Long and Beard",102.49,Zambia
+2022-09-22,"Brown, Moore and Barnett",75.02,Zimbabwe
+2022-09-22,"Meza, Wade and Edwards",104.14,Zimbabwe
+2022-09-26,Jackson Group,90.47,Zimbabwe
+2022-09-27,Brown-Ramirez,93.07,Zimbabwe
+2022-09-22,"Clark, Jackson and Stevenson",103.72,Zimbabwe
+2022-09-22,Watkins Group,101.01,Zimbabwe
+2022-09-22,Edwards-Nixon,111.25,Zimbabwe
+2022-09-24,Mcguire-Mcdowell,102.63,Zimbabwe
+2022-09-25,Rowe-Estrada,91.53,Zimbabwe
+2022-09-25,Lopez-Middleton,88.33,Namibia
+2022-09-23,"Miller, Johnson and Knight",103.31,Zimbabwe
+2022-09-24,"Miller, Johnson and Knight",74.19,Zimbabwe
+2022-09-26,Diaz and Sons,88.74,Zimbabwe
+2022-09-27,"Dominguez, Matthews and Rodriguez",72.92,Zambia
+2022-09-22,Harrison-Reed,101.84,Zimbabwe
+2022-09-22,Decker-Myers,121.75,South Africa
+2022-09-27,"Wilson, Yates and Carroll",62.02,Tanzania
+2022-09-23,Chung Ltd,134.87,Zimbabwe
+2022-09-22,Jones and Sons,123.71,Zimbabwe
+2022-09-27,Briggs PLC,101.8,South Africa
+2022-09-27,Edwards-Ford,84.95,Zimbabwe
+2022-09-26,Elliott-Brown,64.9,Zambia
+2022-09-24,"Brown, Moore and Barnett",118.8,Zimbabwe
+2022-09-23,Briggs PLC,88.28,South Africa
+2022-09-22,Cook LLC,121.69,Zimbabwe
+2022-09-24,"Orozco, Colon and Williamson",113.01,Zimbabwe
+2022-09-23,Burgess PLC,91.83,Zimbabwe
+2022-09-22,Santos-Tanner,113.81,Namibia
+2022-09-27,Edwards-Nixon,111.14,Zimbabwe
+2022-09-27,"Barber, Davis and Nichols",85.22,Zimbabwe
+2022-09-26,Rogers LLC,93.66,Zimbabwe
+2022-09-22,Cook LLC,103.86,Zimbabwe
+2022-09-25,Jackson Group,83.9,Zimbabwe
+2022-09-22,Little-Meadows,69.76,Zimbabwe
+2022-09-22,Henry-Rodriguez,78.98,South Africa
+2022-09-24,Brown PLC,76.63,Zimbabwe
+2022-09-26,"Williams, Cole and Miranda",103.58,Zimbabwe
+2022-09-25,Owen-Hull,70.93,Zambia
+2022-09-26,"Silva, Gordon and Ray",75.78,Zimbabwe
+2022-09-22,Harrison-Reed,90.24,Zimbabwe
+2022-09-26,Rogers LLC,63.69,Zimbabwe
+2022-09-23,Mcguire-Mcdowell,106.87,Zimbabwe
+2022-09-23,Reyes PLC,103.86,Zimbabwe
+2022-09-24,"Clark, Jackson and Stevenson",119.64,Zimbabwe
+2022-09-23,"Baird, Luna and Madden",99.44,Zimbabwe
+2022-09-26,Lee PLC,128.09,Zimbabwe
+2022-09-24,Brown-Ramirez,99.23,Zimbabwe
+2022-09-25,"Johnson, Johnson and Krause",83.14,Zimbabwe
+2022-09-27,Cook LLC,82.56,Zimbabwe
+2022-09-22,Conway-Scott,118.85,Zimbabwe
+2022-09-22,Haynes-Wheeler,103.97,Zimbabwe
+2022-09-25,"Mitchell, Bowman and Walker",84.83,Zambia
+2022-09-22,Scott-Johnson,140.74,Zimbabwe
+2022-09-23,Fernandez-Moss,69.03,Zimbabwe
+2022-09-23,"Acosta, Miles and Fowler",82.6,Zimbabwe
+2022-09-22,Fernandez-Moss,73.48,Zimbabwe
+2022-09-27,Nichols-Williams,101.12,Zimbabwe
+2022-09-22,Austin LLC,135.67,Zimbabwe
+2022-09-22,"Mckee, Summers and Joseph",88.81,Zambia
+2022-09-24,Lee PLC,102.49,Zimbabwe
+2022-09-22,"Miller, Payne and Evans",132.63,Zimbabwe
+2022-09-26,Brown-Ramirez,123.1,Zimbabwe
+2022-09-22,Nelson-Tran,116.24,South Africa
+2022-09-27,Walker-Hodge,104.37,Zimbabwe
+2022-09-23,Stone-Orozco,112.4,Zambia
+2022-09-27,"Orozco, Colon and Williamson",96.01,Zimbabwe
+2022-09-23,"Miller, Payne and Evans",108.22,Zimbabwe
+2022-09-26,Peterson PLC,76.57,Zimbabwe
+2022-09-26,Montgomery LLC,83.61,Zimbabwe
+2022-09-23,Hernandez Ltd,78.41,Zimbabwe
+2022-09-25,"Johnson, Johnson and Krause",80.88,Zimbabwe
+2022-09-26,Smith Group,66.05,Zimbabwe
+2022-09-22,Mcdaniel LLC,107.71,Zimbabwe
+2022-09-25,Diaz and Sons,103.91,Zimbabwe
+2022-09-25,"Flores, Vazquez and Davis",121.6,Zimbabwe
+2022-09-27,Mcguire-Mcdowell,110.0,Zimbabwe
+2022-09-27,Watkins LLC,90.65,Zimbabwe
+2022-09-24,Rogers LLC,114.36,Zimbabwe
+2022-09-22,Mora-Thomas,125.07,Zimbabwe
+2022-09-23,"Wilson, Yates and Carroll",77.47,Tanzania
+2022-09-26,Austin LLC,94.13,Zimbabwe
+2022-09-27,Mcdaniel LLC,69.39,Zimbabwe
+2022-09-26,Stein Inc,82.1,Zimbabwe
+2022-09-27,Briggs PLC,125.79,South Africa
+2022-09-25,Walker-Hodge,75.83,Zimbabwe
+2022-09-27,Harrison-Reed,82.6,Zimbabwe
+2022-09-23,Nichols-Williams,90.15,Zimbabwe
+2022-09-26,Cook LLC,119.25,Zimbabwe
+2022-09-22,"Perez, Lee and Rios",102.37,Zimbabwe
+2022-09-22,Diaz and Sons,116.95,Zimbabwe
+2022-09-25,Watkins Group,111.43,Zimbabwe
+2022-09-27,Hernandez Ltd,91.54,Zimbabwe
+2022-09-26,Edwards-Ford,101.46,Zimbabwe
+2022-09-23,Elliott-Brown,69.17,Zambia
+2022-09-23,Stone-Orozco,106.34,Zambia
+2022-09-23,Nelson-Tran,123.88,South Africa
+2022-09-22,Smith Inc,85.39,Zimbabwe
+2022-09-24,"Johnson, Johnson and Krause",95.69,Zimbabwe
+2022-09-23,Austin LLC,77.24,Zimbabwe
+2022-09-26,Chung Ltd,76.73,Zimbabwe
+2022-09-27,Austin LLC,115.75,Zimbabwe
+2022-09-24,Smith Inc,74.66,Zimbabwe
+2022-09-26,Rowe-Estrada,95.24,Zimbabwe
+2022-09-26,Cook LLC,97.2,Zimbabwe
+2022-09-25,"Dominguez, Matthews and Rodriguez",79.39,Zambia
+2022-09-24,Edwards-Ford,81.98,Zimbabwe
+2022-09-23,Chung Ltd,91.49,Zimbabwe
+2022-09-25,Reyes PLC,114.74,Zimbabwe
