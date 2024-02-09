@@ -93,7 +93,12 @@ if st.checkbox("Plot percentage of companies that oversped"):
 
 if st.checkbox("Plot distribution of speed"):
     sns.set_style("ticks")
-    h = sns.displot(data=traffic, x="speed", binwidth=5, color="#8BADE1")
+    h = sns.displot(
+        data=traffic.query("@date_range[0] <= date <= @date_range[1]"),
+        x="speed",
+        binwidth=5,
+        color="#8BADE1",
+    )
     h.set_axis_labels("Speed (km/hr)", "Count")
     h.refline(x=speed_limit, linestyle=":", color="#FF4B4B")
     st.pyplot(h)
